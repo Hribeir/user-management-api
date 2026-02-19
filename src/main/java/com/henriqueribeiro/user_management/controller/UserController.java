@@ -30,7 +30,7 @@ public class UserController {
 
 
     @GetMapping()
-    public List<User> Finall() {
+    public List<User> Findall() {
         return userRepository.findAll();
     }
 
