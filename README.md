@@ -26,7 +26,7 @@ This project is a REST API that allows basic user management operations:
 
 The application follows a layered architecture:
 
-Controller → Service → Repository → Database
+Controller → Model → Repository → Database
 
 ---
 
@@ -92,3 +92,4 @@ Use:
 👨‍💻 Author
 
 Henrique Ribeiro
+
